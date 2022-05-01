@@ -1,0 +1,6 @@
+1.need to add what I do ( api appium cypress )
+Software Testing (Manual)
+Feature testing done manually providing effective improvement suggestions considerting BVA, ECP etc.
+ 
+2.footer
+3.new section for fun facts ( company project defect identified test case writing ) 
